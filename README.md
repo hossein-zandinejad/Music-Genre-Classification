@@ -12,6 +12,7 @@ A Music Genre Classifier
     - [Mel Frequency Cepstral Coefficients (MFCCs)](#mel-frequency-cepstral-coefficients-mfccs)
 - [Traditional vs. Deep Learning](#traditional-vs-deep-learning)
 - [Conclusion](#conclusion)
+- [Installation](#installation)
 
 ## Introduction
 
@@ -59,3 +60,14 @@ With the rise of deep learning, the process has become more streamlined. Deep le
 ## Conclusion
 
 Music genre classification is a fascinating field, and with the power of neural networks and deep learning, we can build efficient tools for automating this process. This repository serves as an introduction to the concepts and techniques involved in music genre classification. While no code is provided here, you can explore and implement these ideas in your projects to create a music genre classification system tailored to your needs.
+
+# Installation
+
+To run this project, you will need to have the following libraries and dependencies installed. You can install them using pip or conda.
+
+```bash
+pip install numpy
+pip install scikit-learn
+pip install tensorflow
+pip install librosa
+pip install PyQt5
