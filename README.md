@@ -1,6 +1,8 @@
 # Music Genre Classification
 A Music Genre Classifier
 
+![Genres](/Codes/genres.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Audio Pre-Processing for Deep Learning](#audio-pre-processing-for-deep-learning)
